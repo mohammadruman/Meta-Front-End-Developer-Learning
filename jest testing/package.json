@@ -2,7 +2,7 @@
   "name": "jest-testing",
   "version": "1.0.0",
   "description": "",
-  "main": "addFive.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
